@@ -1,10 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Clicky Game
 
-## Available Scripts
+This is a simple memory challenge game written in React
+Don't click the same card twice!
 
-In the project directory, you can run:
+## Website
+http://zahollingsworth1.github.io/Clicky-Game/
 
-### `npm start`
+
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
