@@ -1,0 +1,21 @@
+.header{
+	background-color: #ec8b5e;
+	position: relative;
+	width: 100%;
+}
+
+h1{
+	color: #141A46;
+	text-align: center;
+	font-size: 45px;
+	font-weight: bold;
+	padding: 2px 0 0px 0;
+	margin: 0px 
+}
+
+h2{
+	color: #141A46;
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 10px;
+}
