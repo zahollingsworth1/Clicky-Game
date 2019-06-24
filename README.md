@@ -3,7 +3,7 @@
 This is a simple memory challenge game written in React
 Don't click the same card twice!
 
-![Screenshot](./images/fish.png)
+![Screenshot](./images/Clicky Game.png)
 
 ## Website
 http://zahollingsworth1.github.io/Clicky-Game/
